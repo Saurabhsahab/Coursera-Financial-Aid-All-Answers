@@ -1,4 +1,4 @@
-# coursera-financial-aid-all-answers
+# Coursera-Financial-Aid-All-Answers
 Here you get all the answers  of the questions which are asked for financial aid application on coursera ..
 
 
